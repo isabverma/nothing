@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nothing</string>
+
+    <string name="dummy_button">Do Nothing</string>
+    <string name="dummy_content">Nothing</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-6405189849341787/3036958313</string>
+
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
